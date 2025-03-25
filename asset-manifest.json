@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/enigmasensuality/static/css/main.600c872d.css",
+    "main.js": "/enigmasensuality/static/js/main.3d58601d.js",
+    "static/js/453.b60d9b63.chunk.js": "/enigmasensuality/static/js/453.b60d9b63.chunk.js",
+    "static/media/enigma_sensuality.png": "/enigmasensuality/static/media/enigma_sensuality.3b559878cc6bbd3ea4d9.png",
+    "static/media/header-bg.jpg": "/enigmasensuality/static/media/header-bg.e9e6523de29756a832c3.jpg",
+    "index.html": "/enigmasensuality/index.html",
+    "main.600c872d.css.map": "/enigmasensuality/static/css/main.600c872d.css.map",
+    "main.3d58601d.js.map": "/enigmasensuality/static/js/main.3d58601d.js.map",
+    "453.b60d9b63.chunk.js.map": "/enigmasensuality/static/js/453.b60d9b63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.600c872d.css",
+    "static/js/main.3d58601d.js"
+  ]
+}
