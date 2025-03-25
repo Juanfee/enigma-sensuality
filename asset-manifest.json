@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/enigma-sensuality/static/css/main.c2ad5a9a.css",
-    "main.js": "/enigma-sensuality/static/js/main.466080c4.js",
+    "main.css": "/enigma-sensuality/static/css/main.76b2ecf1.css",
+    "main.js": "/enigma-sensuality/static/js/main.a3c73152.js",
     "static/js/453.b60d9b63.chunk.js": "/enigma-sensuality/static/js/453.b60d9b63.chunk.js",
     "static/media/enigma_sensuality.png": "/enigma-sensuality/static/media/enigma_sensuality.3b559878cc6bbd3ea4d9.png",
     "static/media/header-bg.jpg": "/enigma-sensuality/static/media/header-bg.e9e6523de29756a832c3.jpg",
     "index.html": "/enigma-sensuality/index.html",
-    "main.c2ad5a9a.css.map": "/enigma-sensuality/static/css/main.c2ad5a9a.css.map",
-    "main.466080c4.js.map": "/enigma-sensuality/static/js/main.466080c4.js.map",
+    "main.76b2ecf1.css.map": "/enigma-sensuality/static/css/main.76b2ecf1.css.map",
+    "main.a3c73152.js.map": "/enigma-sensuality/static/js/main.a3c73152.js.map",
     "453.b60d9b63.chunk.js.map": "/enigma-sensuality/static/js/453.b60d9b63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2ad5a9a.css",
-    "static/js/main.466080c4.js"
+    "static/css/main.76b2ecf1.css",
+    "static/js/main.a3c73152.js"
   ]
 }
