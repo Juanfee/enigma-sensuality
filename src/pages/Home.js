@@ -5,15 +5,12 @@ import products from "../data/products";
 import "./Home.css";
 
 const Home = () => {
-    // Selecciona solo algunos productos destacados
     const featuredProducts = products.slice(0, 4);
     
     return (
         <div className="home">
-            {/* Hero Banner */}
             <section className="hero-banner">
                 <div className="hero-content">
-                    <h1>ENIGMA SENSUALITY</h1>
                     <h2>Descubre tu lado más audaz</h2>
                     <p className="hero-description">
                         Lencería fina que celebra la sensualidad femenina. 
