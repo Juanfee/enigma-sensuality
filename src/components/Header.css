@@ -1,0 +1,63 @@
+.header {
+  
+  background-image: url('./../../public/images/header-bg.jpg');
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 120px;
+  position: relative;
+}
+
+.logo a {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white; 
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  position: relative; 
+  z-index: 1;
+  text-decoration: none;
+  letter-spacing: 1px; 
+}
+
+@media (max-width: 768px) {
+  .header {
+    min-height: 80px;
+    padding: 15px;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .logo a {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+  }
+}
+  
+  .nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav li {
+    margin: 0 15px;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 500;
+  }
+  
+  .nav a:hover {
+    color: #900630;
+  }
+  
+  .cart-icon {
+    font-size: 1.2em;
+    cursor: pointer;
+  }
