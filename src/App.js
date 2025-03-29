@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Products from "./pages/Products";
+import Formulario from "./components/Formulario";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home/>} />
             <Route path="/products" element={<Products/>} />
+            <Route path="/formulario" element={<Formulario />} />
 
           </Routes>
         </main>

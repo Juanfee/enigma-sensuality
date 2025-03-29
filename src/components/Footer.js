@@ -2,8 +2,10 @@ import React from "react";
 import './Footer.css';
 import { FaFacebook, FaInstagram, FaWhatsapp, FaEnvelope, FaQuestionCircle } from 'react-icons/fa';
 import { GiSensuousness, GiPartyFlags, GiSecretDoor } from 'react-icons/gi';
+import {Link, useNavigate } from "react-router-dom";
 
 const Footer = () => {
+    const navigate = useNavigate();
     return (
         <footer className="footer">
             <div className="footer-content">
@@ -21,7 +23,7 @@ const Footer = () => {
                     <p className="discreet-text">
                         Experiencias para adultos consensuadas y discretas
                     </p>
-                    <button className="discreet-button">
+                    <button className="discreet-button" onClick={() => navigate("/formulario")}>
                         <FaWhatsapp className="icon"/> Info confidencial
                     </button>
                 </div>
